@@ -10,11 +10,14 @@ Analysing the publicly available data on the funding distribution over time and 
 - The balance between South-East Queensland and the remainder of the state (regional Queensland).
 - Alignment with the program objectives which may include supporting specified groups of people.
 
-#### This analysis will answer the following questions
-- How much was the funding for each program?
-- Does South-East Queensland and the remainder of the state (regional Queensland) influence the programs and their funding distribution?
-- How is the program funding distributed to each community?
-- What projects do each community have and how do distributions align with the objectives?
+#### Business Problems
+1. Unequal Funding Allocation Across Areas and Specified Groups of People
+  - Does South-East Queensland and the remainder of the state (regional Queensland) influence the programs and their funding distribution?
+  - Are there differences in funding allocation that disadvantage certain communities?
+  - How is the program funding distributed to each community?
+2. Misalignment Between Funded Projects and Community Objectives
+  - Are funded projects effectively aligning with program objectives?
+  - What projects do each community have and how do distributions align with the objectives?
 
 # Highlights
 - The data was initially categorized into **SEQ (South-East Queensland)** and **Non-SEQ** regions. Under these two categories, the programs were categorized into 5 communities including **Startups and Industry**, **Education and Researchers**, **Technology and Innovation**, **Female**, and **Indigenous** to gain further insight into funding distribution and their objectives' alignment.
